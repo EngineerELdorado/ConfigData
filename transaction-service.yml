@@ -1,2 +1,2 @@
-transaction-id: 'real transaction id 5'
+transaction-id: 'Should change after 5 minutes'
 new-transaction-id: 'some new id'
